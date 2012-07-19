@@ -1,0 +1,16 @@
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\LiveUpdate.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\LiveUpdate.pdb
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\EntityFramework.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\EntityFramework.xml
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\obj\Debug\LiveUpdate.pdb
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\Newtonsoft.Json.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\Newtonsoft.Json.xml
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.Hosting.AspNet.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.Hosting.Common.dll
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.xml
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.Hosting.AspNet.xml
+C:\Development\AlertHorseDev\LiveUpdate\LiveUpdate\bin\SignalR.Hosting.Common.xml
